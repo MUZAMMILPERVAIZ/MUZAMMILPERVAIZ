@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 <h1>SKILLS</h1>
 <p align="center">
-  <img src="tf.png" width="350" >
-  <img src="np.png" width="350" >
-  <img src="ubuntu.jpeg" width="350" >
-  <img src="1200px-Scikit_learn_logo_small.svg.png" width="350" >
-  <img src="python.jpeg" width="350" >
+  <img src="tf.png" width="50" >
+  <img src="np.png" width="50" >
+  <img src="ubuntu.png" width="50" >
+  <img src="1200px-Scikit_learn_logo_small.svg.png" width="50" >
+  <img src="python.jpeg" width="50" >
   </p>
