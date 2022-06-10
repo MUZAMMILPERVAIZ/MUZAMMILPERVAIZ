@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="tf.png" width="350" >
   <img src="np.png" width="350" >
-  <img src="pd.png" width="350" >
+  <img src="ubuntu.jpeg" width="350" >
+  <img src="1200px-Scikit_learn_logo_small.svg.png" width="350" >
+  <img src="python.jpeg" width="350" >
   </p>
