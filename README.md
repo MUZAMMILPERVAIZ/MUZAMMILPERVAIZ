@@ -32,7 +32,6 @@
 - 🌱 I Love open source technologies ...
 - 📫 How to reach me:
 - muzammilpervaiz925139@gmail.com
-- enhanced.dev.solutions@gmail.com
 
 <h2> Languages and Tools </h2>
 <div class="tools" display="flex">
