@@ -17,6 +17,7 @@
   <a href="https://github.com/MUZAMMILPERVAIZ?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/MUZAMMILPERVAIZ?color=green&label=GITHUB&logo=Github&logoColor=white&style=for-the-badge" alt="GitHub followers badge">
   </a>
+  </br>
   <img src="https://komarev.com/ghpvc/?username=MUZAMMILPERVAIZ&style=flat-square&color=blue" alt="Profile views counter"/>
 </div>
 
