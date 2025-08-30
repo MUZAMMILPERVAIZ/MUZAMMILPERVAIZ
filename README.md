@@ -30,7 +30,7 @@ I'm an Artificial Intelligence graduate from **COMSATS University Islamabad, Att
 - 🔭 I’m currently working on projects involving **Large Language Models (LLMs)** and **Genrative AI**.
 - 🌱 I’m passionate about open-source and constantly exploring new technologies in the AI space.
 - 🚀 My goal is to leverage AI to create impactful and scalable real-world solutions.
-- 📫 You can reach me at: **muzammilpervaiz925139@gmail.com**
+- 📫 You can reach me at: **muhammad.muzammil@endevsols.com**
 
 ---
 
