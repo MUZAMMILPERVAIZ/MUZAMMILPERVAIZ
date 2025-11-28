@@ -1,10 +1,9 @@
 <div id="header" align="center">
-<!--   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/> -->
   <h1>
     Hi, I'm Muzammil Pervaiz 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <p>A passionate Full-Stack Developer and AI Engineer from Pakistan 🇵🇰</p>
+  <p><strong>Senior Full-Stack Developer | AI Engineer | Generative AI Specialist</strong></p>
 </div>
 
 <div id="badges" align="center">
@@ -25,11 +24,11 @@
 
 ### 👨‍💻 About Me
 
-I'm an Artificial Intelligence graduate from **COMSATS University Islamabad, Attock Campus**. I specialize in building intelligent applications from the ground up, with a strong foundation in both **Full-Stack Web Development** and cutting-edge **AI technologies**.
+I am a **Senior Fullstack Developer** and **AI Engineer** at **Endevsols**, specializing in architecting intelligent, scalable applications. With a robust background in both **Modern Web Development** and cutting-edge **AI technologies**, I bridge the gap between complex machine learning models and user-friendly, production-ready interfaces.
 
-- 🔭 I’m currently working on projects involving **Large Language Models (LLMs)** and **Genrative AI**.
-- 🌱 I’m passionate about open-source and constantly exploring new technologies in the AI space.
-- 🚀 My goal is to leverage AI to create impactful and scalable real-world solutions.
+- 🔭 I’m currently spearheading projects involving **Large Language Models (LLMs)**, **RAG Pipelines**, and **Generative AI**.
+- 🌱 I’m an active open-source contributor, constantly exploring the frontiers of AI agents and automation.
+- 🚀 My goal is to leverage AI to deliver high-impact, real-world solutions that drive business efficiency.
 - 📫 You can reach me at: **muhammad.muzammil@endevsols.com**
 
 ---
@@ -54,24 +53,26 @@ I'm an Artificial Intelligence graduate from **COMSATS University Islamabad, Att
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="MS SQL Server" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" />
     </td>
   </tr>
 </table>
@@ -92,6 +93,7 @@ I'm an Artificial Intelligence graduate from **COMSATS University Islamabad, Att
       <a href="https://huggingface.co/docs">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face" />
       </a>
+      <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" width="40" height="40" alt="LangChain" />
     </td>
   </tr>
 </table>
