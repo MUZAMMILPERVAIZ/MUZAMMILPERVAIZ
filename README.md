@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior Fullstack Developer** and **AI Engineer** at **Endevsols**, specializing in architecting intelligent, scalable applications. With a robust background in both **Modern Web Development** and cutting-edge **AI technologies**, I bridge the gap between complex machine learning models and user-friendly, production-ready interfaces.
+I am a **Senior Fullstack Developer** and **AI Engineer** at **[ENDEVSOLS](https://github.com/ENDEVSOLS)**, specializing in architecting intelligent, scalable applications. With a robust background in both **Modern Web Development** and cutting-edge **AI technologies**, I bridge the gap between complex machine learning models and user-friendly, production-ready interfaces.
 
 - 🔭 I’m currently spearheading projects involving **Large Language Models (LLMs)**, **RAG Pipelines**, and **Generative AI**.
 - 🌱 I’m an active open-source contributor, constantly exploring the frontiers of AI agents and automation.
