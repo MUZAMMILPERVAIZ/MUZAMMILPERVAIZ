@@ -33,80 +33,65 @@ I am a **Senior Fullstack Developer** and **AI Engineer** at **[ENDEVSOLS](https
 
 ---
 
-### 💻 Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="180">
-      <strong>Frontend</strong>
-    </td>
-    <td align="center" width="180">
-      <strong>Backend</strong>
-    </td>
-    <td align="center" width="180">
-      <strong>Database</strong>
-    </td>
-     <td align="center" width="180">
-      <strong>DevOps</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Artificial Intelligence & Machine Learning</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="50" alt="Scikit-learn" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-      <a href="https://huggingface.co/docs">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face" />
-      </a>
-      <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" width="40" height="40" alt="LangChain" />
-    </td>
-  </tr>
-</table>
-
+## Technology Stack
+ 
+<div align="center">
+ 
+**AI & Language Models**
+ 
+![LangChain](https://img.shields.io/badge/LangChain-1a2f2a?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1a2f2a?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-cc9900?style=flat-square&logoColor=black)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-1a2a0d?style=flat-square&logo=amazonaws&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d0d1a?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1500?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![VAPI](https://img.shields.io/badge/VAPI-1a0f2e?style=flat-square&logoColor=white)
+ 
+**Backend & Infrastructure**
+ 
+![Python](https://img.shields.io/badge/Python-1a2a3a?style=flat-square&logo=python&logoColor=4a90d9)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a2218?style=flat-square&logo=fastapi&logoColor=00c896)
+![Node.js](https://img.shields.io/badge/Node.js-1a2a1a?style=flat-square&logo=nodedotjs&logoColor=6cc04a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1a2e?style=flat-square&logo=postgresql&logoColor=4a90d9)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d2010?style=flat-square&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/Docker-0d1a2a?style=flat-square&logo=docker&logoColor=4a90d9)
+ 
+**Frontend**
+ 
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1a25?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1a2e?style=flat-square&logo=typescript&logoColor=4a90d9)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-061a1e?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+ 
+**Cloud**
+ 
+![GCP](https://img.shields.io/badge/Google_Cloud-0d1a2e?style=flat-square&logo=googlecloud&logoColor=4a90d9)
+![AWS](https://img.shields.io/badge/AWS-1a1200?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-1a0d0d?style=flat-square&logo=git&logoColor=f05032)
+![Linux](https://img.shields.io/badge/Linux-1a1500?style=flat-square&logo=linux&logoColor=FCC624)
+ 
+</div>
+ 
 ---
+
 
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MUZAMMILPERVAIZ&theme=dark&background=000000" alt="GitHub Streak" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUZAMMILPERVAIZ&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+ 
+<div align="center">
+
+<!-- ROW 5: Contribution Activity Graph -->
+<a href="https://github.com/MUZAMMILPERVAIZ">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=MUZAMMILPERVAIZ&bg_color=0d1117&color=4a90d9&line=4a90d9&point=ffffff&area=true&area_color=1f3a52&hide_border=true&custom_title=Contribution+Timeline" />
+</a>
+
+</div>
 
 ---
 
